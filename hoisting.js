@@ -17,7 +17,7 @@ function crazy() {
   thisIsCrazy();
 
   var thisIsCrazy = function (){
-    
+
   }
 }
 
